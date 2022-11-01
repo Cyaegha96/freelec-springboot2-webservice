@@ -3,3 +3,9 @@
 
 .gradle
 .idea
+/build/reports/tests/test/classes/com.jojoldu.book.springboot.web.PostsApiControllerTest.html
+/build/classes/java/test/com/jojoldu/book/springboot/web/PostsApiControllerTest.class
+/build/classes/java/main/com/jojoldu/book/springboot/web/dto/PostsResponseDto.class
+/build/classes/java/main/com/jojoldu/book/springboot/web/dto/PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder.class
+/build/classes/java/main/com/jojoldu/book/springboot/web/dto/PostsUpdateRequestDto.class
+/build/test-results/test/TEST-com.jojoldu.book.springboot.web.PostsApiControllerTest.xml
