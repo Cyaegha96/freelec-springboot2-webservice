@@ -11,3 +11,5 @@
 /build/test-results/test/TEST-com.jojoldu.book.springboot.web.PostsApiControllerTest.xml
 /build/test-results/test/TEST-com.jojoldu.book.springboot.web.IndexControllerTest.xml
 /build/
+
+/src/main/resources/application-oauth.properties
